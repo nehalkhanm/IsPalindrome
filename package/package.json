@@ -1,0 +1,22 @@
+{
+  "name": "@nehalk/is-palindrome",
+  "version": "1.0.0",
+  "description": "Is the given string a palindrome or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehalkhanm/IsPalindrome.git"
+  },
+  "keywords": [
+    "Palindrome"
+  ],
+  "author": "Nehal Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nehalkhanm/IsPalindrome/issues"
+  },
+  "homepage": "https://github.com/nehalkhanm/IsPalindrome#readme"
+}

@@ -1,6 +1,6 @@
 {
-  "name": "is-palindrome-js",
-  "version": "1.0.0",
+  "name": "@nehalk/is-palindrome-js",
+  "version": "1.0.1",
   "description": "Is the given string a palindrome or not.",
   "main": "index.js",
   "scripts": {

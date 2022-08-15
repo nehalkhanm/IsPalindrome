@@ -22,7 +22,7 @@ To include the module in your Node.js project
 
 ```javascript
 // Load the package
-const is-palindrome = require('is-palindrome');
+const is-palindrome = require('@nehalk/is-palindrome');
 
 console.log(is-palindrome.isPalindrome("noon"));
 ```
@@ -31,7 +31,7 @@ To import it as module in other JavaScript modules
 
 ```javascript
 // Import the package
-import { isPalindrome } from ('is-palindrome');
+import { isPalindrome } from ('@nehalk/is-palindrome');
 
 console.log(isPalindrome("noon"));
 ```

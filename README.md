@@ -6,15 +6,15 @@ To Check if the given string is a palindrome
 
 To install the package globally
 
-`npm i -g @nehalk/is-palindrome`
+`npm i -g @nehalk/is-palindrome-js`
 
 To install the package in your project and add it as a dependency to package.json file
 
-`npm i --save @nehalk/is-palindrome`
+`npm i --save @nehalk/is-palindrome-js`
 
 To install the package in your project and add it as a development dependency to package.json file
 
-`npm i --save-dev @nehalk/is-palindrome`
+`npm i --save-dev @nehalk/is-palindrome-js`
 
 ## Usage
 
@@ -22,7 +22,7 @@ To include the module in your Node.js project
 
 ```javascript
 // Load the package
-const is-palindrome = require('@nehalk/is-palindrome');
+const is-palindrome = require('@nehalk/is-palindrome-js');
 
 console.log(is-palindrome.isPalindrome("noon"));
 ```
@@ -31,7 +31,7 @@ To import it as module in other JavaScript modules
 
 ```javascript
 // Import the package
-import { isPalindrome } from ('@nehalk/is-palindrome');
+import { isPalindrome } from ('@nehalk/is-palindrome-js');
 
 console.log(isPalindrome("noon"));
 ```
